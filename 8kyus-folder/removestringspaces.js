@@ -1,11 +1,11 @@
 
 
 
-Remove String Spaces
+// Remove String Spaces
 
-Simple, remove the spaces from the string, then return the resultant string.
+// Simple, remove the spaces from the string, then return the resultant string.
 
-FUNDAMENTALSSTRINGSARRAYS
+// FUNDAMENTALSSTRINGSARRAYS
 
 
 function noSpace(x){

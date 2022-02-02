@@ -1,14 +1,14 @@
 
-Convert a Number to a String!
+// Convert a Number to a String!
 
-We need a function that can transform a number into a string.
+// We need a function that can transform a number into a string.
 
-What ways of achieving this do you know?
+// What ways of achieving this do you know?
 
-Examples:
-123 --> "123"
-999 --> "999"
-FUNDAMENTALSTYPE CASTINGNUMBERSSTRINGS
+// Examples:
+// 123 --> "123"
+// 999 --> "999"
+// FUNDAMENTALSTYPE CASTINGNUMBERSSTRINGS
 
 
 function numberToString(num) {
